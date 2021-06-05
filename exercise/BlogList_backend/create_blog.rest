@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImV2b25sb2NoIiwiaWQiOiI2MDc1ZTFkMDUxYmJjNzQ3ZGE0NjE2OGIiLCJpYXQiOjE2MTgzOTg4NTR9.FIQwtrxCC0gSOWS3CsxOSSUuh1DBzzmTnfGTcuMS_g4
+
+{
+    "title": "hojoborolo3",
+    "author": "Palash",
+    "url": "fb3.com",
+    "likes": 1234
+    
+}

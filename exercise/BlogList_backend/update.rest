@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/blogs/606b65b2fc8ca33a6656cb61
+Content-Type: application/json
+
+{
+    "title": "Palash's Planet-2",
+    "author": "Palash",
+    "url": "Palash.com",
+    "likes": 1234
+}
